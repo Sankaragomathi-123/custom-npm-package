@@ -1,0 +1,24 @@
+{
+  "name": "custom-button-mui",
+  "version": "1.0.0",
+  "description": "Custom Button with MUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sankaragomathi-123/custom-npm-package.git"
+  },
+  "author": "sankaragomathi-a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sankaragomathi-123/custom-npm-package/issues"
+  },
+  "homepage": "https://github.com/Sankaragomathi-123/custom-npm-package#readme",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.2"
+  }
+}
